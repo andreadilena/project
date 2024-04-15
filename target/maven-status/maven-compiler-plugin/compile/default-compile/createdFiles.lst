@@ -1,0 +1,12 @@
+model\dao\DiscenteService.class
+model\session\Docente.class
+controller\CtrlArchivioDiscente.class
+controller\CtrlMain.class
+model\dao\AbstractService.class
+model\dao\DocenteService.class
+util\HibernateUtil.class
+controller\CtrlArchivioDocente.class
+model\dao\AbstractDAO.class
+model\dao\DocenteDAO.class
+model\session\Discente.class
+model\dao\DiscenteDAO.class
